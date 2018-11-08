@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Module 01 Recipes">
+    <meta name="author" content="Josh Gibson">
+    <meta name="robots" content="noindex">
+    <title>Module 01</title>
+  </head>
+
+  <body>
+    <h1>Module 01:  Introduction to HTML</h1>
+    <h2>Created by: Zach Aweke</h2>
+    <h3>The Most Amazing Choclate Cake</h3>
+    <hr>
+    <figure>
+      <a href="https://thestayathomechef.com/the-most-amazing-chocolate-cake/" target= "_blank"><img src="https://thestayathomechef.com/wp-content/uploads/2016/06/The-Most-Amazing-Chocolate-Cake-6-e1496872339813.jpg" alt= "the-most-amazing-chocolate-cake" title="the-most-amazing-chocolate-cake" Width= "300" height="280"></a>
+      <figcaption>
+        This recipes for Cake is very simple and it tastes great!
+      </figcaption>
+      
+    </figure>
+    <h4>More Recipes :</h4>
+    <a href="https://www.allrecipes.com/recipe/238034/chef-johns-strawberry-ice-cream/?internalSource=streams&referringId=1556&referringContentType=Recipe%20Hub&clickId=st_trending_b" target= "_blank"><img src="https://images.media-allrecipes.com/userphotos/560x315/2300442.jpg" alt= "Strawberry Ice Cream" title="Strawberry Ice Cream" Width= "200" height="150"></a>
+    <a href="https://www.allrecipes.com/recipe/15339/toffee-chunk-cheesecake/?internalSource=rotd&referringId=276&referringContentType=Recipe%20Hub" target= "_blank"><img src="https://images.media-allrecipes.com/userphotos/560x315/48848.jpg" alt= "Toffee Chunk Cheesecake" title="Toffee Chunk Cheesecake " Width= "200" height="150"></a>
+    <a href="https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/" target= "_blank"><img src="https://images.media-allrecipes.com/userphotos/125x70/736203.jpg" alt= "Apple Pie " title="Apple Pie " Width= "200" height="150"></a>
+    <a href="https://www.allrecipes.com/recipe/12409/apple-crisp-ii/" target= "_blank"><img src="https://images.media-allrecipes.com/userphotos/125x70/277070.jpg" alt= "Apple Crisp II " title="Apple Crisp II " Width= "200" height="150"></a>
+    <a href="https://www.allrecipes.com/recipe/241038/microwave-chocolate-mug-cake/" target= "_blank"> <img src= "https://images.media-allrecipes.com/userphotos/125x70/4541090.jpg" alt= "Microwave Chocolate Mug Cake" title="Microwave Chocolate Mug Cake" Width="200" height="150"></a>
+    <p><a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank"><img src="http://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!"/></a></p>
+  </body>
+</html>
